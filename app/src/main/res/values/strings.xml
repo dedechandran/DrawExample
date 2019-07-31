@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DrawExample</string>
+    <string name="save">Save</string>
+    <string name="clear">Clear</string>
+    <string name="upload">Upload</string>
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="blue">Blue</string>
+    <string name="black">Black</string>
+    <string name="print">Print</string>
+</resources>
